@@ -1,0 +1,7 @@
+版本:Unity 5.6.6f2 (64-bit)
+
+UWA網址__https://lab.uwa4d.com/lab/5bc54ed004617c5805d4e8db?fbclid=IwAR1y1jayu6Idy5jbDGbiVAozun2I-WGcoxENY7oEXQkZ0laiUUhh1xmYFyk
+
+官方Github網址__https://github.com/keijiro/TextAnimation
+
+本人Github網址__https://github.com/z1125411235/Text-Animation
